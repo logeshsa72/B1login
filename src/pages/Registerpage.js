@@ -111,7 +111,7 @@ const handleInputs =(event) =>{
       
                  </form>
       <hr />
-        <div><p>New User?<span className="text-danger"></span> <Link to="http://localhost:3000/Register">Create an Account</Link></p></div>
+        <div><p>New User?<span className="text-danger"></span> <Link to="/Register">Create an Account</Link></p></div>
       
       
               </div>
